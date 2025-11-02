@@ -1,4 +1,3 @@
 # Gamer_Project
- Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı aynı zamanda 
- Oyun satışı yapılabilecek satış ortamını ve sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını  simule ettim.
+I simulated an environment where players can register in the system, update their information, delete their accounts, buy games, and where new campaigns can be added, deleted, and updated in the system.
 
